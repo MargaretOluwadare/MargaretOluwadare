@@ -5,9 +5,8 @@
 🔭 I’m currently searching for new frontiers and projects.<br/>
 🌱 I’m Actively seeking a fultime role as a Data Scientist 🤦‍♂.<br/>
 ☕️ I’m open for further discussion. <br/>
-⚡ Do send me a [connect mail](margaretoluwadareea@gmail.com).
-
-👉🏻 ![Visitor Count]![](https://komarev.com/ghpvc/?username=MargaretOluwadare)
+⚡ Do send me an email margaretoluwadareea@gmail.com <br/>
+👉🏻 [Visitor Count]![](https://komarev.com/ghpvc/?username=MargaretOluwadare)
 
 **Back-end**
 
