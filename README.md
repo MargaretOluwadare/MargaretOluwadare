@@ -10,22 +10,32 @@
 ![GitHub Follow](https://img.shields.io/github/followers/MargaretOluwadare.svg?style=social&label=Follow)
 ![GitHub Star](https://img.shields.io/github/stars/MargaretOluwadare?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
-"C:\Users\HP\Documents\GitHub\MargaretOluwadare\images\python.png"
+
 **Back-end**
 
-<code><img height="30" src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/postgresql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/Rstudio.svg"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/Excel.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/powerbi.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/tableau.png"></code>
+<code><img height="30" 
+src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/python.png"></code>
+<code><img height="30" 
+src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/mysql.png"></code>
+<code><img height="30" 
+src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/postgresql.png"></code>
+<code><img height="30" 
+src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/Rstudio.svg"></code>
+<code><img height="30" 
+src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/Excel.png"></code>
+<code><img height="30" 
+src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/powerbi.png"></code>
+<code><img height="30" 
+src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/tableau.png"></code>
 
 **Front-end**
 
-<code><img height="30" src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/css3.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/js.png"></code>
+<code><img height="30" 
+src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/html.png"></code>
+<code><img height="30" 
+src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/css3.png"></code>
+<code><img height="30" 
+src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/js.png"></code>
 
 
 **Databases**
@@ -36,16 +46,21 @@ src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/maste
 src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/mysql.svg"></code>
 <code><img height="30" 
 src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/php.svg"></code>
+
 **Cloud Servers**
 
-<code><img height="30" src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/gcloud.png"></code>
+<code><img height="30" 
+src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/gcloud.png"></code>
 
 
 **Tools**
 
-<code><img height="30" src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/jupyter.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/atom.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/vscode.png"></code>
+<code><img height="30" 
+src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/jupyter.png"></code>
+<code><img height="30" 
+src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/atom.png"></code>
+<code><img height="30" 
+src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/vscode.png"></code>
 
-[![DEREK's github stats](https://github-readme-stats.vercel.app/api?username=MargaretOluwadare&show_icons=true&theme=merko)](https://github.com/MargaretOluwadare)
+[![MargaretOluwadare's github stats](https://github-readme-stats.vercel.app/api?username=MargaretOluwadare&show_icons=true&theme=merko)](https://github.com/MargaretOluwadare)
 
