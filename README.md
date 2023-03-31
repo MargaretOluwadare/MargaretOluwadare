@@ -6,7 +6,10 @@
 🌱 I’m Actively seeking a fultime role as a Data Scientist 🤦‍♂.<br/>
 ☕️ I’m open for further discussion. <br/>
 ⚡ Do send me an email margaretoluwadareea@gmail.com <br/>
-👉🏻 [Visitor Count]![](https://komarev.com/ghpvc/?username=MargaretOluwadare)
+👉🏻 [Visitor Count]![](https://komarev.com/ghpvc/?username=MargaretOluwadare)<br/>
+![GitHub Follow](https://img.shields.io/github/followers/MargaretOluwadare.svg?style=social&label=Follow)
+![GitHub Star](https://img.shields.io/github/stars/MargaretOluwadare?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
+
 
 **Back-end**
 
@@ -28,7 +31,8 @@
 **Databases**
 
 <code><img height="30" src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/postgresql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/mysql.svg"></code>
+<code><img height="30" 
+src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/mysql.svg"></code>
 
 
 **Cloud Servers**
