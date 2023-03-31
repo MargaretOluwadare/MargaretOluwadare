@@ -16,7 +16,7 @@
 <code><img height="30" 
 src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/python.png"></code>
 <code><img height="30" 
-src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/mysql.png"></code>
+src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/mysql.svg"></code>
 <code><img height="30" 
 src="https://raw.githubusercontent.com/MargaretOluwadare/margaretOluwadare/master/images/postgresql.png"></code>
 <code><img height="30" 
