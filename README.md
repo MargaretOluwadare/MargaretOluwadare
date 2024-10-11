@@ -1,10 +1,10 @@
 ### Hi there, I'm [Margaret](https://github.com/MargaretOluwadare) 👋
 
 🏠 I’m currently living at Ibadan City, Nigeria NG. <br/>
-👨‍💻 I’m working as a Data Scientist/Program Manager.<br/>
+👨‍💻 I’m working as a Data Scientist/Program Manager/Clinical Data Specialist.<br/>
 🔭 I’m currently searching for new frontiers and projects.<br/>
-🌱 I’m Actively seeking a fultime role as a Data Scientist 🤦‍♂.<br/>
-☕️ I’m open for further discussion. <br/>
+🌱 I’m Actively seeking a fulltime role as a Data Scientist/Specialist/Analyst 🤦‍♂.<br/>
+☕️ I’m open to further discussion. <br/>
 ⚡ Do send me an email margaretoluwadareea@gmail.com <br/>
 👉🏻 [Visitor Count]![](https://komarev.com/ghpvc/?username=MargaretOluwadare)<br/>
 ![GitHub Follow](https://img.shields.io/github/followers/MargaretOluwadare.svg?style=social&label=Follow)
